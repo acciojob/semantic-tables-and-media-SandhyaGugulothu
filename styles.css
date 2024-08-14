@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+table{
+	border-collapse:collapse;
+}
+th,td{
+	border:solid 2px yellow;
+	text-align:center;
+}
